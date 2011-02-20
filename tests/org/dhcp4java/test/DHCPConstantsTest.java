@@ -38,8 +38,8 @@ import static org.junit.Assert.*;
 public class DHCPConstantsTest {
 	
 	public static junit.framework.Test suite() {
-	       return new JUnit4TestAdapter(DHCPConstantsTest.class);
-	    }
+       return new JUnit4TestAdapter(DHCPConstantsTest.class);
+    }
 
 	@Test
 	public void testConstants() throws UnknownHostException {

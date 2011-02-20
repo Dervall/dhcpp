@@ -32,8 +32,8 @@ import junit.framework.JUnit4TestAdapter;
 public class DHCPCoverageComplement {
 	
 	public static junit.framework.Test suite() {
-	       return new JUnit4TestAdapter(DHCPCoverageComplement.class);
-	    }
+       return new JUnit4TestAdapter(DHCPCoverageComplement.class);
+    }
 		
 	@Test
 	public void testVoid() {
